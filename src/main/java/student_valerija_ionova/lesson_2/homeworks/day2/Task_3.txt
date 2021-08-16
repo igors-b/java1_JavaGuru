@@ -1,9 +1,0 @@
-Задача 1 (level 1):
-Дан код, нужно исправить ошибку компиляции.
-
-
-class Book {
-    public static void main(String[] args) {
-    }
-
-}

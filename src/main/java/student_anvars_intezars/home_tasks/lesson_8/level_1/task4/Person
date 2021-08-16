@@ -1,9 +1,0 @@
-Исправьте код программы:
-
-@CodeReview(approved = true)
-class Person extends Object {
-
-
-}
-
-Не хватало буквы "s" в "extend"

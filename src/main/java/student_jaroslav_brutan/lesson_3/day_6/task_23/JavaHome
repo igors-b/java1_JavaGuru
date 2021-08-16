@@ -1,4 +1,0 @@
-JAVA_HOME is a environment variable (in Unix terminologies),
-or a PATH variable (in Windows terminology).
-A lot of well behaving Java applications (which need the JDK/JRE) to run,
-looks up the JAVA_HOME variable for the location where the Java compiler/interpreter may be found.

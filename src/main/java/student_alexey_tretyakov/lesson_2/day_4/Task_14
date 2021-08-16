@@ -1,4 +1,0 @@
-Запустить в командном интерпретаторе  команду java -classpath <source file>.
-
-Example:
-java -classpath C:\Java\Projects\Java1\src\ student_alexey_tretyakov.lesson_2.day_3.Task_11

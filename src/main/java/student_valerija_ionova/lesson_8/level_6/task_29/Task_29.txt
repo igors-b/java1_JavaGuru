@@ -1,9 +1,0 @@
-@CodeReview(approved = true)
-
-Найти в интернете (javadoc) иерархию наследования
-для класса java.util.ArrayList.
-
-
-Interface Collection <E> - Interface List <E> - Interface ArrayList <E>
-
-Interface Collection <E> - AbstractCollection <E> - AbstractList <E> - ArrayList <E>

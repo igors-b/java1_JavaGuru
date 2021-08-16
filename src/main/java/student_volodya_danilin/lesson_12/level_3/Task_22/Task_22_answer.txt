@@ -1,4 +1,0 @@
-
-@CodeReview(approved = true)
-
-В Java главным классом(предком) в иерархии ошибок является : класс Throwable

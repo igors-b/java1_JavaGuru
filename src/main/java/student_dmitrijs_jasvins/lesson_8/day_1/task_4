@@ -1,3 +1,0 @@
-@CodeReview(approved = true)
-class Person extends Object {
-}

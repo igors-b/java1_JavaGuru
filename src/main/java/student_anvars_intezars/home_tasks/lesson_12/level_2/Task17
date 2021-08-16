@@ -1,9 +1,0 @@
-Почему класс AccessDeniedException в нашем случае
-лучше наследовать от Exception, а не от RuntimeException?
-
-@CodeReview(approved = true)
-class AccessDeniedException extends Exception {
-
-}
-
-Ответ: потому что мы знаем, какие ошибки ожидать и знаем как их словить

@@ -1,5 +1,0 @@
-- Где ханитятся обьекты класса String? "java.lang"
-- Как определить длину строки? .lenght();
-- Как сравнивать две строки? .copareTo ();
-
-- Что такое String Pool и зачем он нужен? https://javadevblog.com/chto-takoe-pul-strok-v-java.html

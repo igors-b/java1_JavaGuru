@@ -1,5 +1,0 @@
-Исправьте код:
-
-class MyException extends Throwable, Exception, RuntimeException {
-
-}

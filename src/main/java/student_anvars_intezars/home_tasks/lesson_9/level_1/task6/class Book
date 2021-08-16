@@ -1,8 +1,0 @@
-
-@CodeReview(approved = true)
-class Book {
-
-    private String title;
-    private String author;
-
-}

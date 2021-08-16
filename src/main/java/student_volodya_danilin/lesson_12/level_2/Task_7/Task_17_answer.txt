@@ -1,7 +1,0 @@
-
-@CodeReview(approved = true)
-
-т.к. наши исключения требуют проверки (когда делаем try - catch)
-то нам лучше наследоваться от Exception.
-
-RunTimeException не требует проверки
